@@ -1,7 +1,6 @@
 # VM_LightSail
 
 Step 1: Create an Amazon Lightsail account
-
   Navigate to AWS website and create a free account.
 
 Step 2: Create a Windows Server 2019 instance in Amazon Lightsail
